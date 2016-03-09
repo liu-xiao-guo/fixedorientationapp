@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=fixedorientationapp
+Exec=qmlscene $@ Main.qml
+Icon=fixedorientationapp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Supported-Orientations=landscape
+
